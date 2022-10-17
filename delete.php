@@ -5,5 +5,4 @@
     $sql = "DELETE FROM students WHERE ID = '$id' ";
     $conn -> exec($sql);
     header("location: index.php");
-
-?>
+    // đây là comment
