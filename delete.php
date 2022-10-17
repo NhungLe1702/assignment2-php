@@ -6,3 +6,4 @@
     $conn -> exec($sql);
     header("location: index.php");
     // đây là comment
+    // đây là comment ở máy của Vương
